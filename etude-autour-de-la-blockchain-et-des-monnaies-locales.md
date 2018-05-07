@@ -20,10 +20,13 @@ Jules César, qui utilisait des moyens via espions pour coder des informations, 
 
 ## Moyen de diffusion d'une crypto locale par l'agriculture {#moyen-de-diffusion-dune-crypto-locale-par-lagriculture}
 
-* Intégrer les producteurs locaux dans des éco-systèmes
+Intégrer les producteurs locaux dans des éco-systèmes
+
 * La valeur repose sur une monnaie locale crypto
-* Ainsi apporter du marché à ces producteurs MAIS seulement s'ils utilisent la Crypto locale
-* Utiliser le Re/Design systémique de Lyon pour diffuser cette monnaie et créer l'intérêt
+
+Ainsi apporter du marché à ces producteurs MAIS seulement s'ils utilisent la Cryptolocale
+
+Utiliser le Re/Design systémique de Lyon pour diffuser cette monnaie et créer l'intérêt
 
 **Séparer la monnaie de la finance, sortir des ICO, trouver un moyen de diffusion partant d'un secteur local.**
 
@@ -49,15 +52,16 @@ Hashgraph - Tangle = structuration très proche d'une logique systémique terrai
 
 Actuellement 1500 crypto / pourtant peu de projets concrets
 
-!! Lancement par les communautés et les lieux locaux.
-
-!! Diffusion PAR la monnaie POUR la monnaie
+* Lancement par les communautés et les lieux locaux.
+* Diffusion PAR la monnaie POUR la monnaie
 
 2018 - La monnaie est un outil des activités des communautés locales - ce qui diffuse la monnaie et crée l'intérêt
 
-!! Bien penser à la granularité des monnaies, en lien avec l'idée de portefeuille multi-monnaie
+_**Bien penser à la granularité des monnaies, en lien avec l'idée de portefeuille multi-monnaie**_
 
-Projet intelligent &gt; Utiliser ce que personne ne veut pour créer une monnaie de valeur
+* Projet intelligent &gt; 
+
+_Utiliser ce que personne ne veut pour créer une monnaie de valeur_
 
 [Amsterdam : les déchets comme monnaie](https://www.decisionsdurables.com/amsterdam-les-dechets-comme-monnaie/)
 
@@ -65,7 +69,7 @@ Il faut sortir de la logique de croissance infinie dans un monde fini.
 
 Basculer la monnaie en éco-systèmes - Structure systémique en background
 
-ne pas rendre possible la conversion en $, simplement parce que c'est un système "à côté" de l'ancien, et qu'on a pas "acheté ses crypto" comme avec une ICO.
+ne pas rendre possible la conversion en $, simplement parce que c'est un système "à côté" de l'ancien, et qu'on a pas "acheté ses cryptos" comme avec une ICO.
 
 La monnaie est
 
@@ -75,5 +79,5 @@ La monnaie est
 
 ### Retour personnel {#retour-personnel}
 
-Je pense que tous ces retours montre l'importance de détacher l'usage factuel d'une monnaie et des valeurs éthiques. De plus, cela montre cependant que pour faire émerger de l'intérêt dans une monnaie, au lieu de faire des ICO il serait intéressant de faire émerger en local, et par les communautés.
+Je pense que tous ces retours montre l'importance de détacher l'usage factuel d'une monnaie et des valeurs éthiques. De plus, cela montre cependant que pour faire émerger de l'intérêt dans une monnaie, au lieu de faire des ICOs il serait intéressant de faire émerger en local, et par les communautés.
 
