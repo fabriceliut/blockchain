@@ -26,7 +26,7 @@ Il y a donc une frontière, une ligne d'opposition qui se dessine entre la firme
 
 Elle font fonction de confiance, elle garantisse la circulation de la valeur, la dimension structure légale et sécurité. Ce sont les tiers de confiance. elles portent une identité qui porte une réputation.
 
-### Les projets blockain dans ce contexte {#les-projets-blockain-dans-ce-contexte}
+### Les projets blockchain dans ce contexte {#les-projets-blockain-dans-ce-contexte}
 
 Ces projets répondent à ces besoin de sécurité, de tier de confiance dans pour autant devoir suivre le modèle centralisé des firmes. Il est possible de créer des réseaux DAO, qui permettent de réguler, partager et d'organiser directement les réseaux, sans petite firme au dessus. C'est le code qui devient le tier de confiance. Le stock de valeur est dans le code au lieu d'une banque, les contrats sont numérique au lieu de passer par des notaires, etc...
 
